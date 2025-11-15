@@ -56,7 +56,7 @@
   "git": {
     "repo_type": "ssh",
     "repo_username": "git",
-    "ssh_key": "C:\\Users\\kknet\\.ssh\\id_rsa"
+    "ssh_key": "C:\\Users\\naojima\\.ssh\\id_ed25519"
   },
   "meta": {
     "filename": "voodoo_1.kicad_prl",
