@@ -4890,7 +4890,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470p"
+		(property "Value" "4700p"
 			(at 186.69 134.6199 0)
 			(effects
 				(font
